@@ -236,13 +236,13 @@ The K-means clustering analysis identified 6 optimal customer segments:
   - West: 77 customers (32.4%)
   - East: 6 customers (2.5%)
 
-![Spending Model Performance](https://github.com/elioc1341/customer_purchasing_behaviour/blob/a03903fe8a8087e11b1f4bdbb58e694a72ccae49/reports/boosting/spending_regression_results.png)
+![Spending Model Performance](https://github.com/VinodAnbalagan/Customer_Purchasing_Behaviors/blob/c079230144c58e729a2fce9a93704788017df994/reports/boosting/spending_regression_results.png)
 
-![Spending SHAP Feature Importance](https://github.com/elioc1341/customer_purchasing_behaviour/blob/a03903fe8a8087e11b1f4bdbb58e694a72ccae49/reports/boosting/spending_shap_summary.png)
+![Spending SHAP Feature Importance](https://github.com/VinodAnbalagan/Customer_Purchasing_Behaviors/blob/c079230144c58e729a2fce9a93704788017df994/reports/boosting/spending_shap_summary.png)
 
-![XGBoost Trees](https://github.com/elioc1341/customer_purchasing_behaviour/blob/a03903fe8a8087e11b1f4bdbb58e694a72ccae49/reports/boosting/trees.png)
+![XGBoost Trees](https://github.com/VinodAnbalagan/Customer_Purchasing_Behaviors/blob/c079230144c58e729a2fce9a93704788017df994/reports/boosting/trees.png)
 
-![XGBoost Feature IMportance](https://github.com/elioc1341/customer_purchasing_behaviour/blob/a03903fe8a8087e11b1f4bdbb58e694a72ccae49/reports/boosting/feature_importance.png)
+![XGBoost Feature Importance](https://github.com/VinodAnbalagan/Customer_Purchasing_Behaviors/blob/b4b83532d3d63be0a7ed7f69f58b508c48c8cfad/reports/boosting/feature_importance.png)
 
 <br/><br/>
 
