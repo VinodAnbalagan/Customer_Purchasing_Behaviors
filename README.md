@@ -4,6 +4,9 @@
 
 As part of the Data Science and Machine Learning Certificate program at University of Toronto's Data Sciences Institute, I selected the "Customer Purchasing Behaviors" dataset to demonstrate the technical and analytical skills developed throughout the course.
 
+### **Model Deployment Status**
+
+[Sample_Customer_Analytics_Platform](https://huggingface.co/spaces/vinod-anbalagan/customer_analytics_platform)
 
 ## Business Case & Objectives
 
@@ -379,7 +382,5 @@ Example: Customer #23
 - Resource Allocation - Focus staff training on high value segment.
 
 <br/><br/>
-### **Model Deployment Status**
 
-[Sample_Customer_Analytics_Platform](https://huggingface.co/spaces/vinod-anbalagan/customer_analytics_platform)
 
